@@ -1,0 +1,53 @@
+// Site logo
+
+.site-logo {
+
+}
+
+// Site branding
+
+.site-branding {
+	color: #{map-deep-get($config-header, "branding", "color", "text")};
+}
+
+// Site title
+
+.site-title {
+
+	color: #{map-deep-get($config-header, "branding", "color", "link")};
+	@include font-family( map-deep-get( $config-header, "branding", "title", "font", "family" ) );
+	letter-spacing: normal;
+	line-height: #{map-deep-get($config-header, "branding", "title", "font", "line-height")};
+
+	a {
+		color: currentColor;
+		font-weight: #{map-deep-get($config-header, "branding", "title", "font", "weight")};
+
+		&:link,
+		&:visited {
+			color: currentColor;
+		}
+
+		&:hover {
+			color: #{map-deep-get($config-header, "branding", "color", "link-hover")};
+		}
+	}
+}
+
+// Site description
+
+.site-description {
+	color: currentColor;
+	@include font-family( map-deep-get($config-header, "branding", "description", "font", "family") );
+}
+
+// Prevent overruling the user defined font size value set inside Gutenberg
+// for Full Site Editing's Site Title and Site Description blocks.
+body:not( .fse-enabled ) {
+	.site-title {
+		font-size: #{map-deep-get($config-header, "branding", "title", "font", "size")};
+	}
+	.site-description {
+		font-size: #{map-deep-get($config-header, "branding", "description", "font", "size")};
+	}
+}

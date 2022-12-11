@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-23T04:03:52+00:00\n"
+"PO-Revision-Date: 2022-07-22 09:54:02+0000\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/varia"
+msgstr "https://wordpress.com/theme/varia"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:31
+msgid "Add or publish Posts"
+msgstr "Beiträge hinzufügen oder veröffentlichen"
+
+#: template-parts/content/content-none.php:25
+msgid "Your site is set to show the most recent posts on this page - but you don't have any Posts published."
+msgstr "Deine Website ist so eingerichtet, dass die aktuellen Beiträge auf dieser Seite erscheinen. Du verfügst jedoch über keine veröffentlichten Beiträge."
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Keine Beiträge gefunden"
+
+#: functions.php:510
+msgid "Check to display a featured image at the top of your pages when they have one."
+msgstr "Setze ein Häkchen, um oben auf deinen Seiten ein Beitragsbild anzuzeigen (falls sie eins haben)."
+
+#: functions.php:509
+msgid "Show the featured image on pages"
+msgstr "Beitragsbilder auf Seiten anzeigen"
+
+#: functions.php:489
+msgid "Content Options"
+msgstr "Inhaltsoptionen"
+
+#: functions.php:469
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Setze ein Häkchen, um das Website-Menü und die Widgets im Footer auszublenden, falls deine Startseite als statische Seite eingerichtet ist."
+
+#: functions.php:468
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Footer-Menü und Widgets der Website ausblenden"
+
+#: functions.php:445
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Setze ein Häkchen, um den Website-Header auszublenden, falls deine Startseite als statische Seite eingerichtet ist."
+
+#: functions.php:444
+msgid "Hide the Site Header"
+msgstr "Header der Website ausblenden"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Tertiär"
+
+#: functions.php:385
+msgid "Display mobile menu on the side"
+msgstr "Mobiles Menü auf der Seite anzeigen"
+
+#: functions.php:377
+msgid "Mobile Settings"
+msgstr "Mobile Einstellungen"
+
+#: inc/wpcom.php:72
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Um sicherzustellen, dass deine Website gut lesbar ist, solltest du versuchen, ein starkes Kontrastverhältnis zwischen deinen hier gewählten Farben zu gewährleisten. <a href=\"%s\" target=\"_blank\">Hier findest du weitere Informationen zu Farbkontrasten</a>."
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Warnung zur Farbdarstellung"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Hintergrund"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Vordergrund"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Einkaufsliste anzeigen"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d Artikel"
+msgstr[1] "%d Artikel"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Warenkorb anzeigen"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "%s weiterlesen"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+#. Description of the theme
+msgid "A variable-based design system for WordPress sites built with Gutenberg."
+msgstr "Ein variablenbasiertes Designsystem für WordPress-Websites, das mit Gutenberg entwickelt wurde."
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Mehr Beiträge anzeigen"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Veröffentlicht von %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Weiterlesen <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft eine Suche."
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Zu den Suchbegriffen wurde leider nichts passendes gefunden. Bitte versuche es erneut mit anderen Suchbegriffen."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Hervorgehoben"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Vorheriger Beitrag:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Nächster Beitrag:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Veröffentlicht: </span><br /><span class=\"post-title\">%s</span>"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Suchergebnisse für:"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Wähle diese Option, um den Seitentitel auszublenden, wenn deine Startseite als statische Seite eingestellt ist."
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Titel der Startseite ausblenden"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Ältere Beiträge"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Neuere Beiträge"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bearbeite <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Schlagwörter:"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Veröffentlicht in"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Schreibe einen Kommentar<span class=\"screen-reader-text\"> zu %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Verfasst von"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Archiv:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s-Archive:"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Tagesarchiv:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Monatsarchiv:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Jahresarchiv:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Autor-Archive:"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Schlagwort-Archive:"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Kategorie-Archive: "
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Varia requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Varia erfordert mindestens die WordPress-Version 4.7. Du verfügst über die Version %s. Bitte aktualisiere die Version und versuche es erneut."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Veröffentlicht in</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volle Größe"
+
+#: image.php:62
+msgid "Page"
+msgstr "Seite"
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "zugeklappt"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "aufgeklappt"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menü"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Widgets hier hinzufügen, um sie in der Fussleiste einzubauen."
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Groß"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Groß"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Social-Links-Menü"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Footer-Menü"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Hauptblog"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Kommentare zu &bdquo;%2$s&ldquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Ein Kommentar zu &ldquo;%1$s&rdquo;"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Wie es aussieht, wurde an dieser Stelle nichts gefunden. Bitte die Suche verwenden."
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte leider nicht gefunden werden."

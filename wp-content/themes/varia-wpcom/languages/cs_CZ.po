@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-04T02:19:06+00:00\n"
+"PO-Revision-Date: 2021-05-25 02:18:16+0000\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Nebyly nalezeny žádné příspěvky"
+
+#: functions.php:489
+msgid "Content Options"
+msgstr "Nastavení obsahu"
+
+#: functions.php:385
+msgid "Display mobile menu on the side"
+msgstr "Zobrazit nabídku webu"
+
+#: functions.php:377
+msgid "Mobile Settings"
+msgstr "Nastavení mobilního zobrazení"
+
+#: inc/wpcom.php:72
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Chcete-li zajistit, aby lidé mohli váš web číst, zachovejte silný kontrastní poměr mezi barvami, které zde vyberete. <a href=\"%s\" target=\"_blank\">Další informace o barevném kontrastu</a>."
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Varování o dostupnosti barev"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Pozadí"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Popředí"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Zobrazte svůj nákupní košík"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Pokračovat ve čtení %s"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Zobrazit košík"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d položka"
+msgstr[1] "%d položky"
+msgstr[2] "%d položek"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Košík"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Předchozí obrázek"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Další obrázek"
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/master/varia"
+msgstr "https://github.com/Automattic/themes/tree/master/varia"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Pokračovat ve čtení<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Publikoval %s"
+
+#. Description of the theme
+msgid "A variable-based design system for WordPress sites built with Gutenberg."
+msgstr "Variabilní návrhový systém pro weby WordPress vytvořený společností Gutenberg."
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Zobrazte více příspěvků"
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Je nám líto, ale nic takového jsme nenašli. Zkuste to prosím znovu s jinými klíčovými slovy."
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nenašli jsme to, co hledáte. Zkuste vyhledávání."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Následující příspěvek"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Předchozí příspěvek"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Doporučené"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publikováno v </span><br /><span class=\"post-title\">%s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Upravit <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Novější příspěvky"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Starší příspěvky"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Výsledky hledání pro výraz"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Zaškrtnutím skryjete záhlaví stránky, pokud je vaše domovská stránka nastavena tak, aby zobrazovala statickou stránku."
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Skrýt název domovské stránky"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Přidat komentář<span class=\"screen-reader-text\"> na %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Zasláno do"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Vlastnosti:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Měsíční archivy:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Archiv:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Publikoval"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s Archivy"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Denní archivy:"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Původní velikost:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Roční archivy:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Archivy autorů:"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Archivy značek:"
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Varia requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Varia vyžaduje minimálně WordPress verze 4.7. Používáte verzi %s. Upgradujte WordPress a zkuste to znovu."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publikováno v </span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Archivy kategorií: "
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: image.php:62
+msgid "Page"
+msgstr "Stránka"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "rozbalené"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "sbalené"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Hlavní navigace"
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Zápatí"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Zde přidejte widgety, které se zobrazí v zápatí."
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Normální"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Velké"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Obrovské"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Sekundární"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://cs.wordpress.org/"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Primární"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Menu zápatí"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Malé"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "1 komentář: &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře: &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů: &bdquo;%2$s&ldquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Jedna myšlenka na &ldquo;%1$s&rdquo;"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Vypadá to, že tady nic není. Možná zkusit vyhledávání ?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ale! Tato stránka se zde nenachází."

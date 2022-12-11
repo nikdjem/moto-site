@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Balasana\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T01:58:12+00:00\n"
+"PO-Revision-Date: 2020-08-04 11:33:07+0000\n"
+"Language: skr_PK\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:83
+msgid "Background"
+msgstr "پس منظر"
+
+#. Description of the theme
+msgid "Balasana is a clean and minimalist business theme designed with health and wellness-focused sites in mind."
+msgstr "بالاسانا ہِک صاف سُتھری اَتے گھٹ تُوں گھٹ تجارتی تھیم ہِے جیڑھی صحت اَتے تندرسی اُتے مبنی ویب سائیٹاں کپوں ذہن وِچ رکھ تے مرکوز کِیتی ڳئی ہِے۔ "
+
+#: template-parts/header/site-navigation.php:7
+msgid "collapsed"
+msgstr "کٹھے تھی ڳئے"
+
+#: template-parts/header/site-navigation.php:6
+msgid "expanded"
+msgstr "کھُل ڳئے"
+
+#: template-parts/header/site-navigation.php:5
+msgid "Menu"
+msgstr "مینو"
+
+#: template-parts/header/site-navigation.php:2
+msgid "Main Navigation"
+msgstr "وݙی نیویڳیشݨ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:147
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "آن کرو"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto Condensed, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:141
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "چالو"
+
+#: functions.php:78
+msgid "Secondary"
+msgstr "ثانوی"
+
+#: functions.php:73
+msgid "Primary"
+msgstr "بنیادی"
+
+#: functions.php:48
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:47
+msgid "Huge"
+msgstr "ہیوج"
+
+#: functions.php:42
+msgid "L"
+msgstr "L"
+
+#: functions.php:41
+msgid "Large"
+msgstr "وݙا"
+
+#: functions.php:36
+msgid "M"
+msgstr "سوں"
+
+#: functions.php:35
+msgid "Normal"
+msgstr "عام"
+
+#: functions.php:30
+msgid "S"
+msgstr "ایس"
+
+#: functions.php:29
+msgid "Small"
+msgstr "چھوٹا"

@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:59:02+00:00\n"
+"PO-Revision-Date: 2019-07-19 11:28:09+0000\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Parhau i ddarllen<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Cyhoeddwyd gan %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Gweld rhagor o gofnodion"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ymddiheuriadau does dim yn cydweddu a'ch chwilio. Ceisiwch eto gydag allweddeiriau gwahanol"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nid ydym yn gallu canfod yr hyn rydych yn chwilio amdano, Beth am chwilio?"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Barod i gyhoeddi eich cofnod cyntaf? <a href=\"%1$s\">Cychwyn fan hyn</a>."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Cofnod Nesaf"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Cofnod nesaf:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Cofnod Blaenorol"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Cofnod blaenorol:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Nodwedd"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Golygu<span class=\"screen-reader-text\"> %s</span>"
+
+#: inc/template-tags.php:295
+msgid "Newer posts"
+msgstr "Cofnodion mwy diweddar"
+
+#: inc/template-tags.php:299
+msgid "Older posts"
+msgstr "Cofnodion hŷn"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "Chwilio canlyniadau am:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Gadewch sylw<span class=\"screen-reader-text\"> ar %s</span> "
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Wedi'i gofnodi yn"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Tagiau:"
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "Archifau Misol: "
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "Archifau Dyddiol: "
+
+#: inc/template-functions.php:98
+msgid "Post Type Archives: "
+msgstr "Math o Gofnod Archif: "
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:102
+msgid "%s Archives:"
+msgstr "%s Archif:"
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "Archifau"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Cofnodwyd gan"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Maint llawn"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Cyhoeddwyd yn</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "Archifau Categori: "
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "Tagio Archifau: "
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "Archifau Awdur: "
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "Archifau Blynyddol: "
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:52
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Tudalennau:"
+
+#: image.php:56
+msgid "Page"
+msgstr "Tudalen"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Mynd i'r cynnwys"
+
+#: header.php:34
+msgid "Menu"
+msgstr "Dewislen"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "Llwyd Tywyll"
+
+#: functions.php:168
+msgid "Gray"
+msgstr "Llwyd"
+
+#: functions.php:173
+msgid "Light Gray"
+msgstr "Llwyd Golau"
+
+#: functions.php:178
+msgid "White"
+msgstr "Gwyn"
+
+#: functions.php:200
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Troedyn"
+
+#: functions.php:202
+msgid "Add widgets here to appear in your footer."
+msgstr "Ychwanegu teclynnau yma i ymddangos yn eich troedyn."
+
+#: functions.php:118
+msgid "S"
+msgstr "E"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Arferol"
+
+#: functions.php:124
+msgid "M"
+msgstr "A"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Mawr"
+
+#: functions.php:130
+msgid "L"
+msgstr "M"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Anferth"
+
+#: functions.php:136
+msgid "XL"
+msgstr "Mawr Ianw"
+
+#: functions.php:158
+msgid "Secondary"
+msgstr "Eilaidd"
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:59
+#: functions.php:153
+msgid "Primary"
+msgstr "Cynradd"
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Dewislen y Troedyn"
+
+#: functions.php:61
+#: header.php:53
+msgid "Social Links Menu"
+msgstr "Dewislen Dolenni Cymdeithasol"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Bach"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un sylw ar &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s sylw ar &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Mae'r sylwadau wedi cau."
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Mae eich sylw'n disgwyl ei gymedroli."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Doedd dim byd fan hyn. Beth am chwilio?"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s yn <span class=\"screen-reader-text says\">dweud:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s yn %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Golygu"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Wps! Does dim modd canfod y dudalen honno."

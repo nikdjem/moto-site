@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-22T04:01:45+00:00\n"
+"PO-Revision-Date: 2022-07-21 14:54:02+0000\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/varia"
+msgstr "https://wordpress.com/theme/varia"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:31
+msgid "Add or publish Posts"
+msgstr "Berichten toevoegen of publiceren"
+
+#: template-parts/content/content-none.php:25
+msgid "Your site is set to show the most recent posts on this page - but you don't have any Posts published."
+msgstr "Je site is zo ingesteld dat de meest recente berichten op deze pagina worden weergegeven, maar je hebt nog geen berichten gepubliceerd."
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Geen berichten gevonden"
+
+#: functions.php:510
+msgid "Check to display a featured image at the top of your pages when they have one."
+msgstr "Aanvinken om een uitgelichte afbeelding bovenin je pagina's weer te geven, indien de lay-out een afbeelding omvat."
+
+#: functions.php:509
+msgid "Show the featured image on pages"
+msgstr "De uitgelichte afbeelding op pagina's tonen"
+
+#: functions.php:489
+msgid "Content Options"
+msgstr "Opties voor inhoud"
+
+#: functions.php:469
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Aanvinken om het sitemenu en widgets in de voettekst te verbergen als je startpagina is ingesteld om een statische pagina weer te geven."
+
+#: functions.php:468
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Het sitemenu en widgets in de voettekst verbergen"
+
+#: functions.php:445
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Vink aan om de siteheader te verbergen, als je homepage is ingesteld op een statische pagina."
+
+#: functions.php:444
+msgid "Hide the Site Header"
+msgstr "De koptekst van de site verbergen"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Tertiair"
+
+#: functions.php:385
+msgid "Display mobile menu on the side"
+msgstr "Mobiel menu aan de zijkant weergeven"
+
+#: functions.php:377
+msgid "Mobile Settings"
+msgstr "Mobiele instellingen"
+
+#: inc/wpcom.php:72
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Kies voor een sterk contrast tussen de kleuren die je hier kan kiezen, zodat bezoekers de website goed kunnen lezen. <a href=\"%s\" target=\"_blank\">Leer meer over kleurcontrast</a>."
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Waarschuwing voor de toegankelijkheid van kleuren"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Achtergrond"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Voorgrond"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Bekijk je boodschappenlijst"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Bekijk je winkelwagen"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Meer lezen over %s"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Volgende afbeelding"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Vorige afbeelding"
+
+#. Description of the theme
+msgid "A variable-based design system for WordPress sites built with Gutenberg."
+msgstr "Een op variabelen gebaseerd ontwerpsysteem voor WordPress-sites gebouwd met Gutenberg."
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Bekijk meer berichten"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Gepubliceerd door %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lees verder <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht helpt de zoekfunctie."
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met jouw zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Vorig bericht"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Volgend bericht"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Gepubliceerd in</span><br /><span class=\"post-title\">%s</span>"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Zoekresultaten voor:"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Vink aan om de paginatitel te verbergen, als je homepagina is ingesteld op een statische pagina."
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Verberg titel homepagina"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Oudere berichten"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bewerk <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Tags:"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Geplaatst in"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laat een reactie achter<span class=\"screen-reader-text\"> op %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Geplaatst door"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Archieven:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s archief:"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Dagelijks archief:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Archief:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Jaarlijks archief:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Auteur archief:"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Tag archief:"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Categorie archief: "
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Varia requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Varia vereist ten minste WordPress-versie 4.7. Je hebt momenteel versie %s. Upgrade en probeer het opnieuw."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Gepubliceerd in</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volledige grootte"
+
+#: image.php:62
+msgid "Page"
+msgstr "Pagina"
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "ingeklapt"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "uitgeklapt"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Hoofdnavigatie"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Voeg hier widgets toe die in de footer verschijnen."
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Voettekst"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Secundair"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Groot"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Groot"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Normaal"
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Klein"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Socialelinksmenu"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Voettekstmenu"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Primaire"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Eén opmerking over '%1$s'"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets gevonden is op deze locatie. Probeer het eens met een zoekopdracht?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kon niet worden gevonden."

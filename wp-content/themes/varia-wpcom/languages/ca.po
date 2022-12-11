@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:59:02+00:00\n"
+"PO-Revision-Date: 2019-07-19 11:28:09+0000\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continua llegint<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Publicat per %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Mostra més entrades"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ho sentim, però res coincideix amb els termes de cerca. Torneu-ho a provar amb algunes paraules clau diferents."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no podem trobar el que esteu cercant. Potser ajudaria si feu una recerca."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Esteu preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Entrada següent"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Entrada següent:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Entrada prèvia"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Destacada"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edita <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:295
+msgid "Newer posts"
+msgstr "Entrades més recents"
+
+#: inc/template-tags.php:299
+msgid "Older posts"
+msgstr "Entrades anteriors"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "Resultats de la cerca de:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixa un comentari<span class=\"screen-reader-text\"> a %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Publicat en"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Etiquetes:"
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "Arxius mensuals: "
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\d\\e Y"
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "Arxius diaris: "
+
+#: inc/template-functions.php:98
+msgid "Post Type Archives: "
+msgstr "Arxiu de tipus d'entrades: "
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:102
+msgid "%s Archives:"
+msgstr "Arxius de %s:"
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "Arxius:"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Publicat per"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Mida sencera"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publicat a</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "Arxiu de categoria:"
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "Arxiu d'etiquetes: "
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "Arxius d'autor: "
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "Arxius anuals: "
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:52
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: image.php:56
+msgid "Page"
+msgstr "Pàgina"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#: header.php:34
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "Gris fosc"
+
+#: functions.php:168
+msgid "Gray"
+msgstr "Gris"
+
+#: functions.php:173
+msgid "Light Gray"
+msgstr "Gris clar"
+
+#: functions.php:178
+msgid "White"
+msgstr "Blanc"
+
+#: functions.php:200
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: functions.php:202
+msgid "Add widgets here to appear in your footer."
+msgstr "Afegiu ginys aquí per a veure'ls al peu de pàgina."
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Gran"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Enorme"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:158
+msgid "Secondary"
+msgstr "Secundària"
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:59
+#: functions.php:153
+msgid "Primary"
+msgstr "Primària"
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Menú del peu de pàgina"
+
+#: functions.php:61
+#: header.php:53
+msgid "Social Links Menu"
+msgstr "Menú d'enllaços socials"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Petit"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Una resposta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respostes a &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "El comentari està esperant moderació."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sembla que no s'ha trobat res aquí. Voleu intentar una cerca?"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">diu:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s a les %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Edita"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aquesta pàgina no es pot trobar."

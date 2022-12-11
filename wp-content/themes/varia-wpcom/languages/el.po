@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:59:02+00:00\n"
+"PO-Revision-Date: 2019-07-19 11:28:09+0000\n"
+"Language: el_GR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Δείτε περισσότερα άρθρα"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Δημοσιεύτηκε από τον %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Συνεχίστε την ανάγνωση του<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr " Απ' ότι φαίνεται δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση. "
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπάμαι, αλλά τίποτα δεν βρέθηκε που να ταιριάζει στους όρους αναζήτησης σας. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Κανένα αποτέλεσμα"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Προβεβλημένα"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Προηγούμενο άρθρο:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Προηγούμενο άρθρο"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Επόμενο άρθρο:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Επόμενο άρθρο"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "Αποτελέσματα αναζήτησης για:"
+
+#: inc/template-tags.php:299
+msgid "Older posts"
+msgstr "Παλαιότερα άρθρα"
+
+#: inc/template-tags.php:295
+msgid "Newer posts"
+msgstr "Νεότερα άρθρα"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Επεξεργασία του<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Ετικέτες:"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Δημοσιεύθηκε στην"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ","
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Αφήστε ένα σχόλιο <span class=\"screen-reader-text\">για το %s</span>"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Αναρτήθηκε από τον/την"
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "Αρχεία:"
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:102
+msgid "%s Archives:"
+msgstr "%s Αρχεία:"
+
+#: inc/template-functions.php:98
+msgid "Post Type Archives: "
+msgstr "Αρχείο Τύπων Άρθρων: "
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "Ημερήσια αρχεία: "
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "Μηνιαία αρχεία: "
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "Ετήσια Αρχεία: "
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "Άρθρα συντάκτη: "
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "Αρχεία Ετικετών: "
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "Αρχεία Κατηγοριών: "
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Δημοσιεύθηκε στο</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Πλήρη μέγεθος"
+
+#: image.php:56
+msgid "Page"
+msgstr "Σελίδα"
+
+#: image.php:52
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: header.php:34
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Μετάβαση σε περιεχόμενο"
+
+#: functions.php:202
+msgid "Add widgets here to appear in your footer."
+msgstr "Προσθέστε τις μικρεφαρμογές σας εδώ για να εμφανίζονται στο υποσέλιδο."
+
+#: functions.php:200
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: functions.php:178
+msgid "White"
+msgstr "Λευκό"
+
+#: functions.php:173
+msgid "Light Gray"
+msgstr "Ανοιχτό Γκρι"
+
+#: functions.php:168
+msgid "Gray"
+msgstr "Γκρι"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "Σκούρο Γκρι"
+
+#: functions.php:158
+msgid "Secondary"
+msgstr "Δευτερεύων"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Τεράστιο"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Κανονικό"
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Μικρό"
+
+#: functions.php:61
+#: header.php:53
+msgid "Social Links Menu"
+msgstr "Μενού Συνδέσμων Κοινωνικών Δικτύων"
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Μενού υποσέλιδου"
+
+#: functions.php:59
+#: functions.php:153
+msgid "Primary"
+msgstr "Βασικό"
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι απενεργοποιημένα."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Μια σκέψη σχετικά μέ το &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s σκέψεις σχετικά με το &ldquo;%2$s&rdquo;"
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας είναι σε αναμονή."
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Αλλαγή"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s στο %2$s"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">λέει:</span>"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δεν βρέθηκε τίποτα σε αυτή την τοποθεσία. Μήπως να δοκιμάζατε μια αναζήτηση;"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωχ! Αυτή η σελίδα δε βρέθηκε."

@@ -1,0 +1,117 @@
+/**
+ * WooCommerce Styles
+ * - These styles should only be loaded when WooCommerce is active
+ */
+
+/**
+ * Abstracts
+ * - Functions and config
+ */
+@import "../../varia/sass/abstracts/functions";
+@import "../../varia/sass/abstracts/config-global";
+
+/**
+ * Child Theme Name Config
+ */
+@import "config-child-theme-deep";
+
+/**
+ * WooCommerce Config
+ */
+@import "config-child-theme-woocommerce";
+
+/**
+ * Varia Mixins
+ */
+@import "../../varia/sass/abstracts/mixins";
+
+/**
+ * Varia Responsive Logic
+ */
+@import "../../varia/sass/abstracts/responsive-logic";
+
+/**
+ * Varia Extends
+ */
+@import "../../varia/sass/base/extends";
+
+/**
+ * WooCommerce Styles
+ */
+@import "../../varia/sass/vendors/woocommerce/style";
+
+
+body[class*="woocommerce"] #page {
+
+	// Clean up sit-branding, menu & mini-cart styles for mobile
+	@include media(mobile-only) {
+
+		#masthead {
+			position: relative;
+			flex-wrap: wrap;
+
+			.site-branding {
+				margin-top: #{map-deep-get($config-global, "spacing", "unit")};
+				margin-bottom: #{map-deep-get($config-global, "spacing", "unit")};
+			}
+		}
+
+		#site-navigation {
+
+			margin-left: 0;
+
+			#toggle-menu,
+			#toggle-cart {
+				float: left;
+			}
+
+			#toggle-cart {
+				margin-left: #{map-deep-get($config-global, "spacing", "unit")};
+				padding: #{0.5 * map-deep-get($config-global, "spacing", "unit")} map-deep-get($config-global, "spacing", "unit");
+
+				.svg-icon {
+					height: 24px;
+					width: 24px;
+				}
+
+				&:before,
+				&:after {
+					margin: 0;
+				}
+			}
+
+			& > div {
+				left: #{map-deep-get($config-global, "spacing", "unit")};
+				right: #{map-deep-get($config-global, "spacing", "unit")};
+				top: calc(100% - #{map-deep-get($config-global, "spacing", "unit")};
+				width: calc(100vw - #{2 * map-deep-get($config-global, "spacing", "unit")});
+			}
+
+			.woocommerce-cart-widget {
+				padding: #{0.5 * map-deep-get($config-global, "spacing", "unit")};
+			}
+		}
+	}
+
+	// Clean up mini-cart styles for mobile and up
+	@include media(mobile) {
+
+		.main-navigation {
+
+			text-align: right;
+
+			ul {
+				text-align: left;
+				justify-content: flex-end;
+			}
+
+			& > div:not(:last-of-type) {
+				margin-right: 0;
+			}
+
+			& > div:last-of-type {
+				margin-left: (2 * map-deep-get($config-global, "spacing", "horizontal"));
+			}
+		}
+	}
+}

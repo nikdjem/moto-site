@@ -1,0 +1,298 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": null
+            },
+            "custom_css_post_id": -1,
+            "header_text": 1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Kelas",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Studio ini mengadakan kelas harian, yang menerima peserta dari semua level. Tetapi jika Anda pemula yang benar-benar baru, kami menawarkan kelas dasar untuk membantu Anda menemukan kepercayaan diri yang dibutuhkan untuk bisa mengenali tubuh Anda.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>Yoga</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Kami menawarkan kelas yang berbeda-beda, dari pemula sampai lanjutan. Paket terbaik kami, \"Discovery Pass\" memungkinkan Anda mengikuti 4 kelas (3 minggu masa berlaku). </p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>Pilates</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Kami mengadakan kelas pilates setiap Senin, Rabu, dan Jumat pagi. Harga diskon $15. Anda juga bisa berlangganan keanggotaan bulanan seharga $120.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>Barre</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Ini kursus 4 minggu saja ($90). Kursus ini terdiri dari kelas 1 jam per hari yang dikhususkan untuk praktik barre.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"className\":\"is-style-columns\",\"ids\":[23,17,29,98]} --> <div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-columns\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"23\" data-link=\"https://balasanademo.wordpress.com/beautiful-beauty-blond-hair-1882004/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg\" /></figure><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"17\" data-link=\"https://balasanademo.wordpress.com/acro-acro-yoga-adult-1881997/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"29\" data-link=\"https://balasanademo.wordpress.com/acro-yoga-balance-barefoot-1881999/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img data-height=\"2000\" data-id=\"98\" data-link=\"https://balasanademo.wordpress.com/teachers/acro-acro-yoga-active-1881996/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">Ingin bergabung?</h2> <!-- /wp:heading --> <!-- wp:button {\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/contact/\">Hubungi Kami</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group -->",
+            "post_name": "classes",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 109,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Guru",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Instruktur kami semuanya berbeda, dengan hidup, gaya, dan latar belakang yang beragam. Tetapi yang pasti mereka semua baik, berkomitmen, dan inspiratif.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Joan Smith</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>Pendiri/Guru Yoga dan Barre</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Dengan latar belakang sebagai penari, Joan sudah lama menyukai dunia yoga dan meditasi. Setelah perjalanannya ke India, ia memutuskan untuk membuka studio sendiri.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":100,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1882002.jpg?w=1024\" alt=\"\" class=\"wp-image-100\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Noah Fraser</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>Guru Yoga</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>James tumbuh di keluarga pencinta yoga, sehingga wajar jika sekarang ia menjadi guru yoga. Ia spesialis dalam acro yoga.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":99,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-arm-balance-1881994.jpg?w=1024\" alt=\"\" class=\"wp-image-99\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Robert Pearce</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>Guru Yoga dan Pilates</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Robert adalah mantan pesenam profesional. Setelah mengalami cedera, ia menemukan kebahagiaan di yoga dan sekarang melatih di studio kami.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":98,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg?w=1024\" alt=\"\" class=\"wp-image-98\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "teachers",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "team",
+            "hs_old_id": 96,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Perihal",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Didirikan oleh Joan Smith, Bālāsana dibuka pada bulan Januari 2015 dengan tujuan sederhana: menginspirasi dan membantu orang-orang menjalani hidup yang lebih sehat, dengan cara apa pun yang mereka inginkan.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Di studio kami yang nyaman, Anda bisa belajar dari program-program lokakarya, memulihkan tubuh dan jiwa dengan mengikuti berbagai kelas kami, dan Anda bisa mengenal lebih baik tentang diri Anda.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"wide\",\"id\":93,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1882007.jpg?w=1024\" alt=\"\" class=\"wp-image-93\" /></figure> <!-- /wp:image --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>Kelas Kami</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Studio ini mengadakan kelas harian, yang menerima peserta dari semua level. Tetapi jika Anda pemula yang benar-benar baru, kami menawarkan kelas dasar untuk membantu Anda menemukan kepercayaan diri yang dibutuhkan untuk bisa mengenali tubuh Anda.</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">Lihat Kelas</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>Guru Kami</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Instruktur kami semuanya berbeda, dengan hidup, gaya, dan latar belakang yang beragam. Tetapi yang pasti mereka semua baik, berkomitmen, dan inspiratif.</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/teachers/\">Lihat Guru</a></div> <!-- /wp:button --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"url\":\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg\",\"id\":39,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim\" style=\"background-image:url('https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>Untuk informasi umum yang lebih lengkap terkait cara memulai dan membiasakan yoga sebagai gaya hidup, silakan kunjungi blog kami.</strong></p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://balasanademo.wordpress.com/blog/\">Lihat Blog</a></div> <!-- /wp:button --></div></div> <!-- /wp:cover -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "about",
+            "hs_old_id": 89,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Kontak",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>Ada pertanyaan tentang studio yoga atau kelas yoga yang kami tawarkan di sini?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Kami akan selalu senang menjawab pertanyaan atau menerima komentar Anda tentang bagaimana kami dapat meningkatkan layanan kami.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} --> <h4 class=\"has-text-align-left\">Hubungi Kami</h4> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/email {\"email\":\"mail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456-7890</a></div> <!-- /wp:jetpack/phone --> <!-- wp:jetpack/address {\"address\":\"99 Wythe Avenue\",\"city\":\"Brooklyn\",\"region\":\"NY\",\"postal\":\"11249\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/99+Wythe Avenue,+Brooklyn,+NY,+11249\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Buka alamat di Google Maps\"><div class=\"jetpack-address__address jetpack-address__address1\">99 Wythe Avenue</div><div><span class=\"jetpack-address__city\">Brooklyn</span>, <span class=\"jetpack-address__region\">NY</span> <span class=\"jetpack-address__postal\">11249</span></div></a></div> <!-- /wp:jetpack/address --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:heading {\"level\":4} --> <h4>Jam Buka</h4> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} --> <h4 class=\"has-text-align-left\">Kirimkan Pesan Kepada Kami</h4> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /--> <!-- wp:jetpack/field-telephone /--> <!-- wp:jetpack/field-textarea {\"required\":true} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 79,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Beranda",
+            "post_content": "<!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">Bālāsana, studio yoga yang berlokasi di Brooklyn, NY.</h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"wide\",\"id\":17,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg?w=1024\" alt=\"\" class=\"wp-image-17\" /></figure> <!-- /wp:image --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"large\"} --> <p class=\"has-text-align-center has-large-font-size\">Di studio kami yang nyaman, Anda bisa belajar dari program-program lokakarya, memulihkan tubuh dan jiwa dengan mengikuti berbagai kelas kami, dan Anda bisa mengenal lebih baik tentang diri Anda.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Kelas Kami</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Studio ini mengadakan kelas harian, yang menerima peserta dari semua level. Tetapi jika Anda pemula yang benar-benar baru, kami menawarkan kelas dasar untuk membantu Anda menemukan kepercayaan diri yang dibutuhkan untuk bisa mengenali tubuh Anda.</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">Lihat Kelas</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":23,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg?w=1024\" alt=\"\" class=\"wp-image-23\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"url\":\"https:\\/\\/balasanademo.files.wordpress.com\\/2019\\/08\\/acro-yoga-active-balance-1881993.jpg\",\"id\":39,\"dimRatio\":40,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-40 has-background-dim\" style=\"background-image:url('https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>Untuk informasi umum yang lebih lengkap terkait cara memulai dan membiasakan yoga sebagai gaya hidup, silakan kunjungi blog kami.</strong></p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://balasanademo.wordpress.com/blog/\">Lihat Blog</a></div> <!-- /wp:button --></div></div> <!-- /wp:cover --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Guru Kami</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Instruktur kami semuanya berbeda, dengan hidup, gaya, dan latar belakang yang beragam. Tetapi yang pasti mereka semua baik, berkomitmen, dan inspiratif.</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/teachers/\">Lihat Guru</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":26,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/balance-clothes-colors-1882003.jpg?w=750\" alt=\"\" class=\"wp-image-26\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6,\"textColor\":\"primary\"} --> <h6 class=\"has-primary-color has-text-color has-text-align-center\">Discovery Pass (Terbaik)</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"primary\",\"fontSize\":\"huge\"} --> <p class=\"has-text-color has-text-align-center has-huge-font-size has-primary-color\"><strong>$50</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"primary\",\"fontSize\":\"small\"} --> <p class=\"has-text-color has-text-align-center has-small-font-size has-primary-color\">3 minggu masa berlaku</p> <!-- /wp:paragraph --> <!-- wp:button {\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">Baca Selengkapnya</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6} --> <h6 class=\"has-text-align-center\">Kursus Pemula</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>$75</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">kursus 4 minggu</p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-background-color has-background has-foreground-background-color\" href=\"https://balasanademo.wordpress.com/classes/\">Baca Selengkapnya</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6} --> <h6 class=\"has-text-align-center\">Kursus Intensitas Barre</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>$90</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">kursus 4 minggu</p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-background-color has-background has-foreground-background-color\" href=\"https://balasanademo.wordpress.com/classes/\">Baca Selengkapnya</a></div> <!-- /wp:button --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textColor\":\"background-dark\"} --> <h2 class=\"has-background-dark-color has-text-color\">Bālāsana</h2> <!-- /wp:heading --> <!-- wp:paragraph {\"textColor\":\"background-dark\"} --> <p class=\"has-text-color has-background-dark-color\">Didirikan pada tahun 2015 oleh Joan Smith, Bālāsana, merupakan studio yoga terkenal di Brooklyn, NY.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p>Ada pertanyaan tentang studio yoga atau kelas yoga yang kami tawarkan di sini?</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>email@domain.com</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>(123) 456-7890</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>99 Wythe Avenue<br>Brooklyn, NY 11249</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Yoga retreat di Bali",
+            "post_content": "<!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"className\":\"is-style-columns\",\"ids\":[133,134,135]} --> <div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-columns\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"133\" data-link=\"https://balasanademo.wordpress.com/ancient-architectural-design-architecture-2166553/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"134\" data-link=\"https://balasanademo.wordpress.com/architecture-bali-beautiful-2166559/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg\" data-width=\"2000\" src=\"https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"135\" data-link=\"https://balasanademo.wordpress.com/bali-coconut-trees-palm-trees-2100805/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:paragraph --> <p>Nantinya kami akan mengadakan yoga retreat di Bali tahun ini, kemungkinan besar bulan Desember. Saat ini kami masih pada tahap awal, tetapi kami akan mengumumkannya paling lambat akhir bulan depan.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Pastikan Anda mengikuti blog kami!</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>Dapatkan konten baru yang dikirim langsung ke kotak masuk Anda.</em></p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"Subscribe\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "yoga-retreat-in-bali",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 132,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "News"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Temukan pusat Anda",
+            "post_content": "<!-- wp:image {\"align\":\"wide\",\"id\":23,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg?w=750\" alt=\"\" class=\"wp-image-23\" /><figcaption>Joan dan Robert sedang meditasi mendalam</figcaption></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Tersedia beberapa latihan untuk membantu Anda terhubung (lagi) dengan jiwa dan raga Anda.</p> <!-- /wp:paragraph --> <!-- wp:list --> <ul><li>Latihan pernapasan dalam</li><li>Meditasi kesadaran penuh</li><li>Meditasi memandang lilin</li></ul> <!-- /wp:list --> <!-- wp:paragraph --> <p>Kami mengadakan kelas meditasi kesadaran setiap Selasa pukul 09.00.</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">Lihat Kelas</a></div> <!-- /wp:button -->",
+            "post_name": "find-your-center",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 124,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Meditation"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Utama",
+            "items": [
+                {
+                    "menu-item-title": "Beranda",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Kelas",
+                    "menu-item-db-id": 112,
+                    "menu-item-object-id": "109",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Perihal",
+                    "menu-item-db-id": 92,
+                    "menu-item-object-id": "89",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Guru",
+                    "menu-item-db-id": 104,
+                    "menu-item-object-id": "96",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Blog",
+                    "menu-item-db-id": 83,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Kontak",
+                    "menu-item-db-id": 82,
+                    "menu-item-object-id": "79",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sosial",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 7,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 8,
+                    "menu-item-object-id": "8",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 9,
+                    "menu-item-object-id": "9",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://balasanademo.files.wordpress.com/2019/08/cropped-logo-1.png",
+        "https://balasanademo.files.wordpress.com/2019/08/cropped-logo.png",
+        "https://balasanademo.files.wordpress.com/2019/08/logo.png",
+        "https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1882002.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-arm-balance-1881994.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1882007.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/form-s-dml3p-sec-unsplash.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/balance-clothes-colors-1882003.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg"
+    ]
+}

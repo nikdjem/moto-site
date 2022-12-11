@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:59:02+00:00\n"
+"PO-Revision-Date: 2021-01-15 11:34:06+0000\n"
+"Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: inc/wpcom-colors.php:216
+#: inc/wpcom-editor-colors.php:153
+msgid "Link Color"
+msgstr "Ngjyrë Lidhjesh"
+
+#: inc/wpcom-colors.php:365
+#: inc/wpcom-editor-colors.php:229
+msgid "Text Color"
+msgstr "Ngjyrë Teksti"
+
+#: inc/wpcom-colors.php:381
+#: inc/wpcom-editor-colors.php:245
+msgid "Secondary Color"
+msgstr "Ngjyrë Dytësore"
+
+#: functions.php:169
+msgid "Foreground"
+msgstr "Paraskenë"
+
+#: functions.php:174
+msgid "Background"
+msgstr "Sfond"
+
+#: inc/wpcom-colors.php:96
+#: inc/wpcom-editor-colors.php:82
+msgid "Background Color"
+msgstr "Ngjyrë Sfondi"
+
+#: inc/woocommerce.php:212
+msgid "View your shopping list"
+msgstr "Shihni listën tuaj të blerjeve"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:182
+msgid "Continue reading %s"
+msgstr "Vazhdoni leximin %s"
+
+#: inc/woocommerce.php:208
+msgid "Cart"
+msgstr "Shportë"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekte"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:211
+msgid "View your shopping cart"
+msgstr "Shihni shportën tuaj të blerjeve"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Figura e mëparshme"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Figura pasuese"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Vazhdoni leximin e<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Botuar nga %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Shihni më tepër postime"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Na ndjeni, por s'u përputh gjë me termat tuaj të kërkimit. Ju lutemi, riprovoni me ndoca fjalëkyçe të tjera."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Duket se nuk qemë në gjendje të gjenim ç’po kërkonit. Ndoshta mund t’ju ndihë kërkimi."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gati për botimin e postimit tuaj të parë? <a href=\"%1$s\">Fillojani këtu</a>."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Postimi Pasues"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Postimi vijues"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Postimi i Mëparshëm"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Postimi i mëparshëm:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "I zgjedhur"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "S’u Gjet Gjë"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Përpunoni <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Postime më të reja"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Postime më të vjetra"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "Përfundime kërkimi për:"
+
+#: inc/wpcom.php:48
+msgid "Hide Homepage Title"
+msgstr "Fshihe Titullin e Faqes Hyrëse"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lini një koment <span class=\"screen-reader-text\"> te %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Postuar te"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Etiketa:"
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "Arkiva të Përmuajshme: "
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "Arkiva të Përditshme: "
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:100
+#: inc/template-functions.php:106
+msgid "%s Archives"
+msgstr "Arkiva %s:"
+
+#: inc/template-functions.php:110
+msgid "Archives:"
+msgstr "Arkiva:"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Postuar nga"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Madhësi e plotë"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Botuar te</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "Arkiva Kategorish: "
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "Arkiva Etiketash: "
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "Arkiva Autori: "
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "Arkiva të Përvitshme: "
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:58
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Faqe:"
+
+#: image.php:62
+msgid "Page"
+msgstr "Faqe"
+
+#: header.php:60
+#: inc/woocommerce.php:210
+msgid "collapsed"
+msgstr "e tkurrur"
+
+#: header.php:59
+#: inc/woocommerce.php:209
+msgid "expanded"
+msgstr "e zgjeruar"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Kalo te lënda"
+
+#: header.php:52
+msgid "Main Navigation"
+msgstr "Lëvizjet Kryesore"
+
+#: header.php:56
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:205
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Fundfaqe"
+
+#: functions.php:207
+msgid "Add widgets here to appear in your footer."
+msgstr "Shtoni këtu widget-e që doni të shfaqen në fundfaqen tuaj."
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Normale"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Të mëdha"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "I stërmadh"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:164
+msgid "Secondary"
+msgstr "Dytësore"
+
+#. translators: 1: WordPress link, 2: WordPress.
+#: footer.php:50
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:59
+#: functions.php:159
+msgid "Primary"
+msgstr "Parësor"
+
+#: footer.php:29
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Menu Fundfaqeje"
+
+#: functions.php:61
+#: header.php:78
+msgid "Social Links Menu"
+msgstr "Menu Lidhjesh Shoqërore"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Të vogla"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Një mendim mbi &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s mendime mbi &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentet janë të mbyllura."
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Një mendim mbi &ldquo;%1$s&rdquo;"
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Komenti juaj është në pritje të moderimit."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Duket se s’u gjet gjë në këtë vend. Të provohet një kërkim ndoshta?"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">thotë:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s më %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hëm! Ajo faqe s’gjendet dot."

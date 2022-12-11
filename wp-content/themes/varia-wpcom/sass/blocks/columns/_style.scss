@@ -1,0 +1,55 @@
+.wp-block-columns {
+
+	.wp-block-column {
+		& > * {
+			margin-top: #{ 0.666 * map-deep-get($config-global, "spacing", "vertical") };
+			margin-bottom: #{ 0.666 * map-deep-get($config-global, "spacing", "vertical") };
+
+			@include media(mobile) {
+				margin-top: map-deep-get($config-global, "spacing", "vertical");
+				margin-bottom: map-deep-get($config-global, "spacing", "vertical");
+			}
+
+			&:first-child {
+				margin-top: 0;
+			}
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	.wp-block-column:not(:last-child) {
+		margin-bottom: #{ 0.666 * map-deep-get($config-global, "spacing", "vertical") };
+
+		@include media(mobile) {
+			margin-bottom: map-deep-get($config-global, "spacing", "vertical");
+		}
+
+		@include media(laptop) {
+			/* Resetting margins to match _block-container.scss */
+			margin-bottom: 0;
+		}
+	}
+
+	/**
+	 * Block Options
+	 */
+	&.alignfull {
+		padding-left: #{map-deep-get($config-global, "spacing", "horizontal")};
+		padding-right: #{map-deep-get($config-global, "spacing", "horizontal")};
+
+		&:not(:first-child) {
+			margin-top: map-deep-get($config-global, "spacing", "vertical");
+		}
+
+		&:not(:last-child) {
+			margin-bottom: map-deep-get($config-global, "spacing", "vertical");
+		}
+	}
+}

@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T04:27:33+00:00\n"
+"PO-Revision-Date: 2021-04-17 04:26:46+0000\n"
+"Language: no\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Tertiært"
+
+#: functions.php:489
+msgid "Content Options"
+msgstr "Innholdsinnstillinger"
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Fargetilgjengelighetsadvarsel"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Forgrunn"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Vis handlelisten din"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Vis handlevognen din"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d gjenstand"
+msgstr[1] "%d gjenstander"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Handlevogn"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Fortsett å lese %s"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Forrige bilde"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Neste bilde"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Fortsett å lese<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Publisert av %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Vis flere innlegg"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, søket ditt ga ingen resultater. Prøv igjen med andre søkeord."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Kanskje det kan hjelpe å søke."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Neste innlegg"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Forrige innlegg"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Fremhevet"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publisert i</span><span class=\"post-title\">%s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Rediger <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Søkeresultater for:"
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Skjul hjemmesidetittelen"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Legg igjen en kommentar<span class=\"screen-reader-text\"> på %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Publisert i"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Stikkord:"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Månedlige arkiver: "
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Daglige arkiver: "
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Arkiver:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Skrevet av"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s-arkiver:"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Full størrelse"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Årlige arkiver:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Å"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Publisert i</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Stikkordsarkiver:"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Kategoriarkiver: "
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Forfatterarkiver:"
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Sider:"
+
+#: image.php:62
+msgid "Page"
+msgstr "Side"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "Utvidet"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "Klappet sammen"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Hovednavigasjon"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Bunntekst"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Legg til moduler her som skal dukke opp i bunnområdet ditt."
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Stor"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Svær"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Sekundær"
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Hovedblogg"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Bunnmeny"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Meny for sosiale lenker"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Liten"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "En tanke om &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Stengt for kommentarer."
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ble ikke funnet noe her. Kanskje du kan prøve å søke?"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s, kl. %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Rediger"
+
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">sier:</span>"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Den siden finnes ikke."

@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-20T01:56:29+00:00\n"
+"PO-Revision-Date: 2021-04-19 15:12:33+0000\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Tretinis"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Priekinis planas"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Fono nustatymai"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Daugiau: %s"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Peržiūrėti krepšelį"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d prekė"
+msgstr[1] "%d prekės"
+msgstr[2] "%d prekių"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Krepšelis"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Ankstesnis paveikslėlis"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Kitas paveikslėlis"
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/master/varia"
+msgstr "https://github.com/Automattic/themes/tree/master/varia"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Toliau skaityti<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Paskelbė %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Rodyti daugiau įrašų"
+
+#. Description of the theme
+msgid "A variable-based design system for WordPress sites built with Gutenberg."
+msgstr "Kintamaisiais paremta dizaino sistema, skirta WordPress tinklalapiams, sukurtiems su Gutenberg."
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Deja, pagal Jūsų užklausą nieko nerasta. Pabandykite dar kartą, naudodami kitokius raktažodžius."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nieko nerasta. Pabandykite pasinaudoti paieška."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pasirengę paskelbti pirmąjį įrašą? <a href=\"%1$s\">Pradėkite čia</a>."
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Paskelbta</span><span class=\"post-title\">%s</span>"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Kitas įrašas"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Kitas įrašas"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Ankstesnis įrašas"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Ankstesnis įrašas:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Rekomenduojamas"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nieko nerasta"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Redaguoti <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Naujesni įrašai"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Senesni įrašai"
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Slėpti pradinio puslapio pavadinimą"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Pažymėkite norėdami slėpti pavadinimą, kai Jūsų pradinis puslapis yra statinis."
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Paieškos rezultatai pagal:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Įrašykite komentarą<span class=\"screen-reader-text\"> apie %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Žymos:"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Priskirta"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Mėnesio archyvas:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Dienos archyvas:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "Archyvas pagal %s:"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Archyvas:"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Parašė:"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Pilnas dydis"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Paskelbta įraše</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Žymos archyvas:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Autoriaus archyvas:"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Metų archyvas:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Varia requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Temai Varia reikalinga WordPress versija 4.7 arba naujesnė. Jūs naudojate versiją %s. Prašome atsinaujinti."
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Kategorijos archyvas: "
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: image.php:62
+msgid "Page"
+msgstr "Puslapis"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "suskleista"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "išskleista"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Pereiti prie turinio"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Pagrindinis meniu"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Meniu"
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Poraštė"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Čia įkelti valdikliai bus rodomi poraštėje."
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Normalus"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Didelis"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Labai didelis"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Antroji"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Pagrindinis meniu"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Poraštės navigacija"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Socialinių nuorodų meniu"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Mažas"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentarai išjungti."
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Vienas komentaras apie &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentaras apie &ldquo;%2$s&rdquo; "
+msgstr[1] "%1$s komentarai apie &ldquo;%2$s&rdquo;\t"
+msgstr[2] "%1$s komentarų apie &ldquo;%2$s&rdquo;\t"
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras bus rodomas po administratoriaus peržiūros."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Nieko nerasta. Pabandykite pasinaudokite paieška."
+
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">parašė:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deja, toks puslapis nerastas."

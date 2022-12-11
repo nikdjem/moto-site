@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-05-25T02:18:45+00:00\n"
+"PO-Revision-Date: 2021-04-17 04:26:46+0000\n"
+"Language: kab_DZ\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Wis kraḍ"
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Γur-k/m initen n unekcum"
+
+#: inc/wpcom.php:72
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Akken ad twaliḍ ma yella imdanen qqaren asmel-inek/inem, εreḍ ad tgeḍ aneqqis iǧehden n ugnil gar yiniten i tferneḍ dagi. <a href=\"%s\" target=\"_blank\">Issin ugar ɣef ugnil n yiniten</a>."
+
+#: functions.php:187
+msgid "Background"
+msgstr "Aɣawas n deffir"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Tazwart"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Wali tabdert-ik/im n lqeḍyan"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Ḍfer taɣuri n %s"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Taqecwalt"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Wali takerḍa-inek/inem n tiɣin"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d uferdis"
+msgstr[1] "%d yiferdisen"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Tugna yezrin"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Tugna i d-iteddun"
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/tree/master/varia"
+msgstr "https://github.com/Automattic/themes/tree/master/varia"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Ḍfer taɣuri n<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Wali aṭas n tsuffaɣ"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Isuffeɣ-it-id %s"
+
+#. Description of the theme
+msgid "A variable-based design system for WordPress sites built with Gutenberg."
+msgstr "Anagraw n ufeṣṣel yebnan ɣef yimettiyen i yismal n WordPress i d-yebnan sGutenberg."
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Surfaɣ, ulac acu i yenmeɣran aked yirmawen n unadi-inek. Ttxil-k eɛreḍ s wawalen-nniḍen."
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Yettban-d amzum akken ayen tettnadiḍ ulac-it. Eɛreḍ s unadi."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Amagrad uḍfir"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Amagrad uzwir"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Tasuffeɣt yezrin:"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Tasuffeɣt i -iteddun:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Ummid"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d deg</span><br /><span class=\"post-title\">%s</span>"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Imagraden imaynuten"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Imagraden iqburen"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Ẓreg <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Rcem taxxamt akken ad teffreḍ azwel n usebter, ma yella asebter-inek agejdan d asebter udmis."
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Ffer azwel n usebter agejdan"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Igmad n unadi ɣef:"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Tibzimin:"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Yeffeɣ-d deg"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Eǧǧ awennit<span class=\"screen-reader-text\"> ɣef %s</span>"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Isuffeɣ-it-id"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s iɣbaren"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Iɣbaren n yal ass: "
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Iɣbaren n wayyur: "
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Iɣbaren:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Teɣzi taččurant"
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Yeffeɣ-d deg</span><br><span class=\"post-title\">%azwel</span>"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Iɣbaren n useggas: "
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Iɣbaren n umeskar: "
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Iɣbaren n tebzimt: "
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Iɣbaren n taggayt: "
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Varia requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Varia tesra xerṣum lqem 4.7 n WordPress. Aql-ak/akem tseddayeḍ lqem %s. Ttxil-k/m leqqem syen εreḍ tikkelt-nniḍen."
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Isebtar :"
+
+#: image.php:62
+msgid "Page"
+msgstr "Asebtar"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "yedrem"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "yebrareḥ"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Ngez ɣer ugbur agejdan"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Umuɣ"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Tunigin tagejdant"
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Aḍar n usebtar"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Rnu iwiǧiten dagi ara d-ibanen deg uḍar n usebter-inek."
+
+#: functions.php:142
+msgid "Large"
+msgstr "Tahrawant"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Amagnu"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Meqqer aṭas"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Arnaw"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Umuɣ n izdayen n iẓeḍwan imettiyen"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Agejdan"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Amecṭuḥ"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Umuɣ n uḍar n usebter"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Iwenniten medlen."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s i yewalan &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s i yewalan &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Tamawt ɣef  &ldquo;%1$s&rdquo;"
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Awennit-inek ittraǧu asniles."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Atan am wakken ulac acu yellan di tansa-agi. Ad tɛreḍeḍ s unadi ?"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s ɣef %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Ẓreg"
+
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">ini:</span>"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ihuh&nbsp;! Asebtar-agi ulac-it."

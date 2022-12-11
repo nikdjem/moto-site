@@ -1,0 +1,49 @@
+.wp-block-pullquote {
+	border-top-color: #{map-deep-get($config-pullquote, "color", "border")};
+	border-top-width: #{map-deep-get($config-pullquote, "border", "width")};
+	border-bottom-color: #{map-deep-get($config-pullquote, "color", "border")};
+	border-bottom-width: #{map-deep-get($config-pullquote, "border", "width")};
+	color: #{map-deep-get($config-global, "color", "foreground", "default")};
+
+	blockquote p {
+		@include font-family( map-deep-get($config-pullquote, "font", "family") );
+		font-size: #{map-deep-get($config-heading, "font", "size", "h4")};
+		letter-spacing: #{map-deep-get($config-heading, "font", "letter-spacing", "h4")};
+		line-height: #{map-deep-get($config-heading, "font", "line-height", "h4")};
+	}
+	&.is-style-solid-color {
+		blockquote p {
+			font-size: #{map-deep-get($config-heading, "font", "size", "h4")};
+		}
+	}
+
+	a {
+		color: currentColor;
+	}
+
+	.wp-block-pullquote__citation,
+	cite,
+	footer {
+		color: #{map-deep-get($config-global, "color", "foreground", "light")};
+		font-size: #{map-deep-get($config-global, "font", "size", "sm")};
+		letter-spacing: #{map-deep-get($config-global, "font", "letter-spacing", "sm")};
+	}
+
+	blockquote {
+		padding-left: 0;
+	}
+
+	&.is-style-solid-color {
+		color: #{map-deep-get($config-global, "color", "background", "default")};
+
+		.wp-block-pullquote__citation,
+		cite,
+		footer {
+			color: currentColor;
+		}
+
+		&:not(.has-background) {
+			background-color: #{map-deep-get($config-pullquote, "color", "background")};
+		}
+	}
+}

@@ -1,0 +1,21 @@
+/**
+ * Pullquote
+ */
+$config-pullquote: (
+	// Font
+	"font": (
+		"family": (
+			"fallback": #{map-deep-get($config-heading, "font", "family", "fallback")},
+			"css-var": #{map-deep-get($config-heading, "font", "family", "css-var")},
+		),
+	),
+	// Border
+	"color": (
+		"border": #{map-deep-get($config-global, "color", "border", "default")},
+		"background": #{map-deep-get($config-global, "color", "primary", "default")},
+	),
+	// Border
+	"border": (
+		"width": #{0.5 * $baseline-unit},
+	),
+);

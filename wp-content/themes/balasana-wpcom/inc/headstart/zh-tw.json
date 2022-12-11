@@ -1,0 +1,298 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": null
+            },
+            "custom_css_post_id": -1,
+            "header_text": 1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "課程",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>本工作室提供每日課程，歡迎所有程度的學員參加。但如果你從未接觸過瑜珈，我們也提供基礎課程，協助你建立自信，進一步瞭解自己的身體。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>瑜珈</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>從初學到進階，我們提供各種不同程度的課程。我們最超值的套裝課程是「探索通行證」，可讓你參與 4 堂課程 (有效期限為 3 週)。 </p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>皮拉提斯</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>我們在每星期一、三、五的早上開設皮拉提斯課程。免預約課程費用為 $15。你也可註冊每月會員資格，費用為每個月 $120。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>芭蕾提斯</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>我們只提供為期 4 週的芭蕾提斯課程 ($90)。本課程包含每天 1 小時的課程內容，著重於練習芭蕾提斯。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"className\":\"is-style-columns\",\"ids\":[23,17,29,98]} --> <div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-columns\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"23\" data-link=\"https://balasanademo.wordpress.com/beautiful-beauty-blond-hair-1882004/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg\" /></figure><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"17\" data-link=\"https://balasanademo.wordpress.com/acro-acro-yoga-adult-1881997/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"29\" data-link=\"https://balasanademo.wordpress.com/acro-yoga-balance-barefoot-1881999/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img data-height=\"2000\" data-id=\"98\" data-link=\"https://balasanademo.wordpress.com/teachers/acro-acro-yoga-active-1881996/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">想加入課程？</h2> <!-- /wp:heading --> <!-- wp:button {\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/contact/\">與我們聯絡</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group -->",
+            "post_name": "classes",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 109,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "師資",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">我們的教練有著不同經歷、風格與背景，但全都具備體貼、熱忱及鼓舞人心的特質。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Joan Smith</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>創辦人/瑜珈和芭蕾提斯老師</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>舞者出身的 Joan 對瑜珈和冥想的熱忱不曾消減。在前往印度旅遊後，她決定開設自己的工作室。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":100,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1882002.jpg?w=1024\" alt=\"\" class=\"wp-image-100\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Noah Fraser</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>瑜珈老師</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>James 成長於熱愛瑜珈的家庭，因此成為一位瑜珈教師再自然不過。他特別擅長特技瑜伽。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":99,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-arm-balance-1881994.jpg?w=1024\" alt=\"\" class=\"wp-image-99\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>Robert Pearce</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>瑜珈和皮拉提斯老師</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Robert 曾是專業的體操運動員。他在一次受傷後發現了瑜珈的樂趣，如今在我們工作室擔任師資。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":98,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg?w=1024\" alt=\"\" class=\"wp-image-98\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "teachers",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "team",
+            "hs_old_id": 96,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "關於",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Bālāsana 是位於紐約布魯克林的知名瑜珈工作室，由 Joan Smith 於 2015 年創辦，創立宗旨很簡單，就是鼓勵和協助人們以自己喜歡的方式打造更健康的生活。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>在我們美麗的工作室中，你可以透過研習課學習、參與課程調養身心靈並提升自信。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"wide\",\"id\":93,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1882007.jpg?w=1024\" alt=\"\" class=\"wp-image-93\" /></figure> <!-- /wp:image --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>我們的課程</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>本工作室提供每日課程，歡迎所有程度的學員參加。但如果你從未接觸過瑜珈，我們也提供基礎課程，協助你建立自信，進一步瞭解自己的身體。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">查看課程</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>我們的師資</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>我們的教練有著不同經歷、風格與背景，但全都具備體貼、熱忱及鼓舞人心的特質。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/teachers/\">查看師資陣容</a></div> <!-- /wp:button --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"url\":\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg\",\"id\":39,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim\" style=\"background-image:url('https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>若要查看更多一般資訊，瞭解如何開始將瑜珈融入生活，請造訪我們的網誌。</strong></p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://balasanademo.wordpress.com/blog/\">查看網誌</a></div> <!-- /wp:button --></div></div> <!-- /wp:cover -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "about",
+            "hs_old_id": 89,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "聯絡方式",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>對於我們的瑜伽工作室或此處所提供的瑜伽課程，你有任何疑問嗎？</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>我們隨時樂意回答你的問題，或接受批評與指教，瞭解如何提供更好的服務。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} --> <h4 class=\"has-text-align-left\">與我們聯絡</h4> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/email {\"email\":\"mail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456-7890</a></div> <!-- /wp:jetpack/phone --> <!-- wp:jetpack/address {\"address\":\"99 Wythe Avenue\",\"city\":\"Brooklyn\",\"region\":\"NY\",\"postal\":\"11249\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/99+Wythe Avenue,+Brooklyn,+NY,+11249\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"在 Google 地圖中開啟地址\"><div class=\"jetpack-address__address jetpack-address__address1\">99 Wythe Avenue</div><div><span class=\"jetpack-address__city\">Brooklyn</span>, <span class=\"jetpack-address__region\">NY</span> <span class=\"jetpack-address__postal\">11249</span></div></a></div> <!-- /wp:jetpack/address --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:heading {\"level\":4} --> <h4>營業時間</h4> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} --> <h4 class=\"has-text-align-left\">傳送訊息給我們</h4> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /--> <!-- wp:jetpack/field-telephone /--> <!-- wp:jetpack/field-textarea {\"required\":true} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 79,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "網誌",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "首頁",
+            "post_content": "<!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">我們是位於紐約布魯克林的 Bālāsana 瑜珈工作室。</h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"wide\",\"id\":17,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg?w=1024\" alt=\"\" class=\"wp-image-17\" /></figure> <!-- /wp:image --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"large\"} --> <p class=\"has-text-align-center has-large-font-size\">在我們美麗的工作室中，你可以透過研習課學習、參與課程調養身心靈並提升自信。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>我們的課程</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>本工作室提供每日課程，歡迎所有程度的學員參加。但如果你從未接觸過瑜珈，我們也提供基礎課程，協助你建立自信，進一步瞭解自己的身體。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">查看課程</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":23,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg?w=1024\" alt=\"\" class=\"wp-image-23\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"url\":\"https:\\/\\/balasanademo.files.wordpress.com\\/2019\\/08\\/acro-yoga-active-balance-1881993.jpg\",\"id\":39,\"dimRatio\":40,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-40 has-background-dim\" style=\"background-image:url('https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>若要查看更多一般資訊，瞭解如何開始將瑜珈融入生活，請造訪我們的網誌。</strong></p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://balasanademo.wordpress.com/blog/\">查看網誌</a></div> <!-- /wp:button --></div></div> <!-- /wp:cover --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>我們的師資</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>我們的教練有著不同經歷、風格與背景，但全都具備體貼、熱忱及鼓舞人心的特質。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/teachers/\">查看師資陣容</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":26,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/balance-clothes-colors-1882003.jpg?w=750\" alt=\"\" class=\"wp-image-26\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6,\"textColor\":\"primary\"} --> <h6 class=\"has-primary-color has-text-color has-text-align-center\">探索通行證 (最超值)</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"primary\",\"fontSize\":\"huge\"} --> <p class=\"has-text-color has-text-align-center has-huge-font-size has-primary-color\"><strong>$50</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"primary\",\"fontSize\":\"small\"} --> <p class=\"has-text-color has-text-align-center has-small-font-size has-primary-color\">有效期限為 3 週</p> <!-- /wp:paragraph --> <!-- wp:button {\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">閱讀更多</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6} --> <h6 class=\"has-text-align-center\">完整初學者課程</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>$75</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">4 週課程</p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-background-color has-background has-foreground-background-color\" href=\"https://balasanademo.wordpress.com/classes/\">閱讀更多</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6} --> <h6 class=\"has-text-align-center\">芭蕾提斯強度 (Barre Intensity) 課程</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>$90</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">4 週課程</p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-background-color has-background has-foreground-background-color\" href=\"https://balasanademo.wordpress.com/classes/\">閱讀更多</a></div> <!-- /wp:button --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textColor\":\"background-dark\"} --> <h2 class=\"has-background-dark-color has-text-color\">Bālāsana</h2> <!-- /wp:heading --> <!-- wp:paragraph {\"textColor\":\"background-dark\"} --> <p class=\"has-text-color has-background-dark-color\">由 Joan Smith 於 2015 年創辦，Bālāsana 是位於紐約布魯克林的知名瑜珈工作室。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p>對於我們的瑜伽工作室或此處所提供的瑜伽課程，你有任何疑問嗎？</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>email@domain.com</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>(123) 456-7890</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>99 Wythe Avenue<br>Brooklyn, NY 11249</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "峇里島瑜珈之旅",
+            "post_content": "<!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"className\":\"is-style-columns\",\"ids\":[133,134,135]} --> <div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-columns\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"133\" data-link=\"https://balasanademo.wordpress.com/ancient-architectural-design-architecture-2166553/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"134\" data-link=\"https://balasanademo.wordpress.com/architecture-bali-beautiful-2166559/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg\" data-width=\"2000\" src=\"https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"135\" data-link=\"https://balasanademo.wordpress.com/bali-coconut-trees-palm-trees-2100805/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:paragraph --> <p>我們會在今年底舉辦一場峇里島瑜珈之旅，行程時間很可能會定在 12 月。目前我們仍在籌備初期，但會在下個月底公佈相關資訊。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>記得關注我們的網誌！</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>將最新內容直接傳送到你的收件匣。</em></p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"訂閱\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "yoga-retreat-in-bali",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 132,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "News"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "找到自我",
+            "post_content": "<!-- wp:image {\"align\":\"wide\",\"id\":23,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg?w=750\" alt=\"\" class=\"wp-image-23\" /><figcaption>Joan 和 Robert 正在深層冥想</figcaption></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>有一些練習可以幫助你連結或重新連結自我身心。</p> <!-- /wp:paragraph --> <!-- wp:list --> <ul><li>深呼吸練習</li><li>正念冥想</li><li>燭光冥想</li></ul> <!-- /wp:list --> <!-- wp:paragraph --> <p>我們每星期二早上 9:00 會舉辦正念冥想課程。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">查看課程</a></div> <!-- /wp:button -->",
+            "post_name": "find-your-center",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 124,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Meditation"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "主要",
+            "items": [
+                {
+                    "menu-item-title": "首頁",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "課程",
+                    "menu-item-db-id": 112,
+                    "menu-item-object-id": "109",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "關於",
+                    "menu-item-db-id": 92,
+                    "menu-item-object-id": "89",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "師資",
+                    "menu-item-db-id": 104,
+                    "menu-item-object-id": "96",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "網誌",
+                    "menu-item-db-id": 83,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "聯絡方式",
+                    "menu-item-db-id": 82,
+                    "menu-item-object-id": "79",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "社交",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 7,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 8,
+                    "menu-item-object-id": "8",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 9,
+                    "menu-item-object-id": "9",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://balasanademo.files.wordpress.com/2019/08/cropped-logo-1.png",
+        "https://balasanademo.files.wordpress.com/2019/08/cropped-logo.png",
+        "https://balasanademo.files.wordpress.com/2019/08/logo.png",
+        "https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1882002.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-arm-balance-1881994.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1882007.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/form-s-dml3p-sec-unsplash.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/balance-clothes-colors-1882003.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg"
+    ]
+}

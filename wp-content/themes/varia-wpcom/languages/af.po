@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-16T01:59:02+00:00\n"
+"PO-Revision-Date: 2019-07-19 11:28:09+0000\n"
+"Language: af_ZA\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+#: template-parts/content/content.php:36
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lees meer<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Gepubliseer deur %s"
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Sien nog artikels"
+
+#: template-parts/content/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Jammer, maar niks stem ooreen met jou soekterme nie. Probeer asseblief weer met ander sleutelwoorde."
+
+#: template-parts/content/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Dit lyk nie of ons kan vind waarna jy op soek is nie. Dalk sal dit help om die soekfunksie te gebruik."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Is jy gereed om jou eerste artikel te publiseer? <a href=\"%1$s\">Begin hier</a>."
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Volgende bydrae"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Volgende artikel:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Vorige bydrae"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Vorige artikel:"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Gewildste"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Geen Resultate"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:40
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Wysig <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:295
+msgid "Newer posts"
+msgstr "Nuwer artikels"
+
+#: inc/template-tags.php:299
+msgid "Older posts"
+msgstr "Ouer artikels"
+
+#. translators: 1: search result title. 2: search term.
+#: search.php:25
+msgid "Search results for:"
+msgstr "Soekresultate vir:"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Los kommentaar<span class=\"screen-reader-text\"> op %s</span>"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ","
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of categories.
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Gepubliseer in"
+
+#. translators: 1: SVG icon. 2: posted in label, only visible to screen
+#. readers. 3: list of tags.
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Sleutelwoordw:"
+
+#: inc/template-functions.php:94
+msgid "Monthly Archives: "
+msgstr "Maandelikse Argiewe:"
+
+#: inc/template-functions.php:94
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:96
+msgid "Daily Archives: "
+msgstr "Daaglikse Argiewe:"
+
+#: inc/template-functions.php:98
+msgid "Post Type Archives: "
+msgstr "Artikeltipe Argiewe:"
+
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:102
+msgid "%s Archives:"
+msgstr "%s Argiewe:"
+
+#: inc/template-functions.php:104
+msgid "Archives:"
+msgstr "Argiewe:"
+
+#. translators: 1: SVG icon. 2: post author, only visible to screen readers. 3:
+#. author link.
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Bygedra deur"
+
+#: image.php:70
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Volgrootte"
+
+#: image.php:87
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Gepubliseer in</span><br><span class=\"post-title\">%title</span>"
+
+#: inc/template-functions.php:86
+msgid "Category Archives: "
+msgstr "Kategorie Argiewe:"
+
+#: inc/template-functions.php:88
+msgid "Tag Archives: "
+msgstr "Sleutelwoord Argiewe:"
+
+#: inc/template-functions.php:90
+msgid "Author Archives: "
+msgstr "Outeur Argiewe:"
+
+#: inc/template-functions.php:92
+msgid "Yearly Archives: "
+msgstr "Jaarlikse Argiewe:"
+
+#: inc/template-functions.php:92
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: image.php:52
+#: template-parts/content/content-page.php:26
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:49
+msgid "Pages:"
+msgstr "Bladsye"
+
+#: image.php:56
+msgid "Page"
+msgstr "Bladsy"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Slaan oor na inhoud"
+
+#: header.php:34
+msgid "Menu"
+msgstr "Kieslys"
+
+#: functions.php:163
+msgid "Dark Gray"
+msgstr "Donkergrys"
+
+#: functions.php:168
+msgid "Gray"
+msgstr "Grys"
+
+#: functions.php:173
+msgid "Light Gray"
+msgstr "Liggrys"
+
+#: functions.php:178
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:200
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Voetstrook"
+
+#: functions.php:202
+msgid "Add widgets here to appear in your footer."
+msgstr "Voeg widgets hier in om in die loopvoet te verskyn."
+
+#: functions.php:118
+msgid "S"
+msgstr "S"
+
+#: functions.php:123
+msgid "Normal"
+msgstr "Normaal"
+
+#: functions.php:124
+msgid "M"
+msgstr "M"
+
+#: functions.php:129
+msgid "Large"
+msgstr "Groot"
+
+#: functions.php:130
+msgid "L"
+msgstr "L"
+
+#: functions.php:135
+msgid "Huge"
+msgstr "Baie Groot"
+
+#: functions.php:136
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:158
+msgid "Secondary"
+msgstr "Sekondêr"
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions.php:59
+#: functions.php:153
+msgid "Primary"
+msgstr "Primêr"
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr "Voetstukkieslys"
+
+#: functions.php:61
+#: header.php:53
+msgid "Social Links Menu"
+msgstr "Sosiale skakels kieslys"
+
+#: functions.php:117
+msgid "Small"
+msgstr "Klein"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedagte oor &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedagtes oor &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Die kommentaar is gesluit."
+
+#: classes/class-varia-walker-comment.php:100
+msgid "Your comment is awaiting moderation."
+msgstr "Jou kommentaar word gemodereer."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Dit lyk nie of enigiets hier gevind is nie. Probeer dalk om te soek?"
+
+#. translators: %s: comment author link
+#: classes/class-varia-walker-comment.php:67
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">sê:</span>"
+
+#. translators: 1: comment date, 2: comment time
+#: classes/class-varia-walker-comment.php:87
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: classes/class-varia-walker-comment.php:95
+msgid "Edit"
+msgstr "Wysig"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Daardie bladsy kon nie gevind word nie."

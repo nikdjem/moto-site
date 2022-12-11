@@ -1,0 +1,11 @@
+/**
+ * Cover
+ */
+$config-cover: (
+	"height": #{15 * map-deep-get($config-global, "spacing", "vertical")},
+	"color": (
+		"foreground": #{map-deep-get($config-global, "color", "white")},
+		"background": #{map-deep-get($config-global, "color", "black")},
+	)
+);
+

@@ -1,0 +1,21 @@
+.wp-block-gallery {
+
+	margin: 0;
+
+	.blocks-gallery-image,
+	.blocks-gallery-item {
+
+		figcaption {
+			margin: 0;
+			// Text color is always white to account for default gradient background
+			color: #{map-deep-get($config-global, "color", "white")};
+			font-size: #{map-deep-get($config-global, "font", "size", "xs")};
+		}
+	}
+
+	// Apply max-width to floated items that have no intrinsic width.
+	&.alignleft,
+	&.alignright {
+		max-width: 50%;
+	}
+}

@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Varia\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-22T04:02:09+00:00\n"
+"PO-Revision-Date: 2022-07-21 09:54:03+0000\n"
+"Language: id\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/varia"
+msgstr "https://id.wordpress.com/tema/varia"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:31
+msgid "Add or publish Posts"
+msgstr "Tambah atau publikasikan Pos"
+
+#: template-parts/content/content-none.php:25
+msgid "Your site is set to show the most recent posts on this page - but you don't have any Posts published."
+msgstr "Situs Anda disetel untuk menampilkan pos terbaru di halaman ini, tetapi belum ada Pos yang dipublikasikan."
+
+#: template-parts/content/content-none.php:16
+msgid "No Posts Found"
+msgstr "Tidak ditemukan pos"
+
+#: functions.php:510
+msgid "Check to display a featured image at the top of your pages when they have one."
+msgstr "Centang untuk menampilkan gambar unggulan di bagian atas halaman jika ada di halaman tersebut."
+
+#: functions.php:509
+msgid "Show the featured image on pages"
+msgstr "Tampilkan gambar unggulan di halaman"
+
+#: functions.php:489
+msgid "Content Options"
+msgstr "Opsi Konten"
+
+#: functions.php:469
+msgid "Check to hide the site menu & widgets in the footer, if your homepage is set to display a static page."
+msgstr "Centang untuk menyembunyikan menu & widget situs di footer jika beranda disetel untuk menampilkan halaman statis."
+
+#: functions.php:468
+msgid "Hide the Site Footer Menu & Widgets"
+msgstr "Sembunyikan Menu & Widget dari Footer Situs"
+
+#: functions.php:445
+msgid "Check to hide the site header, if your homepage is set to display a static page."
+msgstr "Centang untuk menyembunyikan header situs jika beranda disetel untuk menampilkan halaman statis."
+
+#: functions.php:444
+msgid "Hide the Site Header"
+msgstr "Sembunyikan Header Situs"
+
+#: functions.php:195
+msgid "Tertiary"
+msgstr "Tersier"
+
+#: functions.php:385
+msgid "Display mobile menu on the side"
+msgstr "Tampilkan menu seluler di samping"
+
+#: functions.php:377
+msgid "Mobile Settings"
+msgstr "Pengaturan Seluler"
+
+#: inc/wpcom.php:72
+msgid "In order to ensure people can read your site, try to maintain a strong contrast ratio between the colors you choose here. <a href=\"%s\" target=\"_blank\">Learn more about color contrast</a>."
+msgstr "Untuk memastikan konten situs Anda dapat dibaca, coba pertahankan rasio kontras yang kuat antara warna yang Anda pilih di sini. <a href=\"%s\" target=\"_blank\">Pelajari lebih lanjut tentang kontras warna</a>."
+
+#: inc/wpcom.php:70
+msgid "Color Accessibility Warning"
+msgstr "Peringatan Aksesibilitas Warna"
+
+#: functions.php:187
+msgid "Background"
+msgstr "Latar belakang"
+
+#: functions.php:182
+msgid "Foreground"
+msgstr "Latar Depan"
+
+#: inc/woocommerce.php:221
+msgid "View your shopping list"
+msgstr "Lihat keranjang belanja Anda"
+
+#: inc/woocommerce.php:217
+msgid "Cart"
+msgstr "Kereta belanja"
+
+#: inc/woocommerce.php:106
+#: inc/woocommerce.php:142
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d tulisan"
+msgstr[1] "%d tulisan"
+
+#: inc/woocommerce.php:103
+#: inc/woocommerce.php:220
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja kamu"
+
+#. translators: %s: Name of current post.
+#: inc/template-functions.php:196
+msgid "Continue reading %s"
+msgstr "Lanjutkan membaca %s"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Gambar Berikutnya"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Gambar sebelumnya"
+
+#. Description of the theme
+msgid "A variable-based design system for WordPress sites built with Gutenberg."
+msgstr "Sistem desain berbasis variabel untuk situs WordPress yang dibuat menggunakan Gutenberg."
+
+#: template-parts/post/author-bio.php:26
+msgid "View more posts"
+msgstr "Lihat lebih banyak pos"
+
+#. translators: %s: post author
+#: template-parts/post/author-bio.php:17
+msgid "Published by %s"
+msgstr "Diterbitkan oleh %s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-single.php:33
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Lanjutkan membaca<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan apa yang Anda cari. Mungkin pencarian dapat membantu."
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: template-parts/content/content-excerpt.php:18
+#: template-parts/content/content-testimonial-excerpt.php:18
+#: template-parts/content/content.php:18
+msgctxt "post"
+msgid "Featured"
+msgstr "Andalan"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
+
+#: single.php:41
+msgid "Previous Post"
+msgstr "Pos Sebelumnya"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Pos berikutnya:"
+
+#: single.php:38
+msgid "Next Post"
+msgstr "Pos Berikutnya"
+
+#. translators: %s: parent post link
+#: single.php:31
+msgid "<span class=\"meta-nav\">Published in</span><br /><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Diposkan di</span><br /><span class=\"post-title\">%s</span>"
+
+#: search.php:25
+msgid "Search results for:"
+msgstr "Hasil pencarian untuk:"
+
+#: inc/wpcom.php:57
+msgid "Check to hide the page title, if your homepage is set to display a static page."
+msgstr "Periksa untuk menyembunyikan judul halaman, jika beranda Anda diatur untuk menampilkan halaman statis."
+
+#: inc/wpcom.php:56
+msgid "Hide Homepage Title"
+msgstr "Sembunyikan Judul Halaman Muka"
+
+#: inc/template-tags.php:298
+msgid "Older posts"
+msgstr "Tulisan yang lebih lama"
+
+#: inc/template-tags.php:294
+msgid "Newer posts"
+msgstr "Pos-pos terbaru"
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:120
+#: inc/template-tags.php:185
+#: template-parts/content/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sunting <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:104
+#: inc/template-tags.php:169
+msgid "Tags:"
+msgstr "Tag:"
+
+#: inc/template-tags.php:92
+#: inc/template-tags.php:157
+msgid "Posted in"
+msgstr "Diposkan pada"
+
+#. translators: used between list items, there is a space after the comma.
+#: inc/template-tags.php:86
+#: inc/template-tags.php:98
+#: inc/template-tags.php:151
+#: inc/template-tags.php:163
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:63
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tulis komentar<span class=\"screen-reader-text\"> pada %s</span>"
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr "Ditulis oleh"
+
+#: inc/template-functions.php:124
+msgid "Archives:"
+msgstr "Arsip:"
+
+#. translators: %s: Post type singular name
+#. translators: %s: Taxonomy singular name
+#: inc/template-functions.php:114
+#: inc/template-functions.php:120
+msgid "%s Archives"
+msgstr "%s Arsip"
+
+#: inc/template-functions.php:110
+msgid "Daily Archives: "
+msgstr "Arsip Harian:"
+
+#: inc/template-functions.php:108
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-functions.php:108
+msgid "Monthly Archives: "
+msgstr "Arsip Bulanan:"
+
+#: inc/template-functions.php:106
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-functions.php:106
+msgid "Yearly Archives: "
+msgstr "Arsip Tahunan:"
+
+#: inc/template-functions.php:104
+msgid "Author Archives: "
+msgstr "Arsip Penulis:"
+
+#: inc/template-functions.php:102
+msgid "Tag Archives: "
+msgstr "Arsip Tag:"
+
+#: inc/template-functions.php:100
+msgid "Category Archives: "
+msgstr "Arsip Kategori: "
+
+#: inc/back-compat.php:39
+#: inc/back-compat.php:53
+#: inc/back-compat.php:73
+msgid "Varia requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Varia memerlukan WordPress minimal versi 4.7. Anda menjalankan versi %s. Silakan upgrade, lalu coba lagi."
+
+#: image.php:93
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><br><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Dipublikasikan pada</span><br><span class=\"post-title\">%title</span>"
+
+#: image.php:76
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Ukuran penuh"
+
+#: image.php:62
+msgid "Page"
+msgstr "Laman"
+
+#: image.php:58
+#: template-parts/content/content-page.php:30
+#: template-parts/content/content-single.php:46
+#: template-parts/content/content.php:36
+msgid "Pages:"
+msgstr "Laman:"
+
+#: inc/woocommerce.php:219
+#: template-parts/header/site-navigation.php:21
+msgid "collapsed"
+msgstr "Jatuh"
+
+#: inc/woocommerce.php:218
+#: template-parts/header/site-navigation.php:20
+msgid "expanded"
+msgstr "terbentang"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/header/site-navigation.php:13
+msgid "Main Navigation"
+msgstr "Navigasi Utama"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Lanjut ke konten"
+
+#: functions.php:241
+msgid "Add widgets here to appear in your footer."
+msgstr "Tambahkan widget di sini agar muncul di footer Anda."
+
+#: functions.php:239
+#: template-parts/footer/footer-widgets.php:12
+msgid "Footer"
+msgstr "Kaki Halaman"
+
+#: functions.php:177
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: functions.php:149
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:148
+msgid "Huge"
+msgstr "Besar"
+
+#: functions.php:143
+msgid "L"
+msgstr "L"
+
+#: functions.php:142
+msgid "Large"
+msgstr "Besar"
+
+#: functions.php:137
+msgid "M"
+msgstr "M"
+
+#: functions.php:136
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:131
+msgid "S"
+msgstr "S"
+
+#: functions.php:130
+msgid "Small"
+msgstr "Kecil"
+
+#: functions.php:74
+#: template-parts/header/social-navigation.php:2
+msgid "Social Links Menu"
+msgstr "Menu Tautan Sosial"
+
+#: functions.php:73
+#: template-parts/footer/footer-navigation.php:2
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: functions.php:72
+#: functions.php:172
+msgid "Primary"
+msgstr "Utama"
+
+#: template-parts/footer/site-name.php:9
+msgid "https://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Satu pendapat untuk “%1$s”"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sepertinya tidak ditemukan apapun di sini. Mungkin coba pencarian?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."

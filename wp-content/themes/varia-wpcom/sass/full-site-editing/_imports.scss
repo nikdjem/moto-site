@@ -1,0 +1,63 @@
+.fse-template-part {
+	margin-bottom: 0;
+	margin-top: 0;
+
+	.main-navigation {
+		.alignwide, .alignfull {
+			width: 100%;
+		}
+
+		.has-text-color > .main-menu.footer-menu > li > a {
+			color: inherit;
+		}
+		.has-text-align-left > .main-menu.footer-menu {
+			justify-content: flex-start;
+		}
+		.has-text-align-center > .main-menu.footer-menu {
+			justify-content: center;
+		}
+		.has-text-align-right > .main-menu.footer-menu {
+			justify-content: flex-end;
+		}
+		.has-background > .main-menu.footer-menu {
+			padding: #{map-deep-get($config-global, "spacing", "unit")} 0;
+			@include media(mobile) {
+				padding: #{map-deep-get($config-global, "spacing", "unit")};
+			}
+		}
+		& > div > .main-menu.footer-menu > .menu-item-has-children > a::after {
+			font-size: 0.6em;
+			vertical-align: middle;
+		}
+	}
+
+	// Remove large margins on column children when used in a template part.
+	.wp-block-columns .wp-block-column {
+		& > * {
+			margin: 0 0 5px 0;
+		}
+	}
+}
+
+.fse-header > *:first-child:not(.alignfull) {
+	margin-top: #{ 0.666 * map-deep-get($config-global, "spacing", "vertical") };
+
+	@include media(mobile) {
+		margin-top: map-deep-get($config-global, "spacing", "vertical");
+	}
+}
+
+.fse-footer {
+	display: block;
+
+	.site-info {
+		margin-top: #{ 0.666 * map-deep-get($config-global, "spacing", "vertical") };
+		margin-bottom: #{ 0.666 * map-deep-get($config-global, "spacing", "vertical") };
+		text-align: center;
+
+		@include media(mobile) {
+			margin-top: map-deep-get($config-global, "spacing", "vertical");
+			margin-bottom: map-deep-get($config-global, "spacing", "vertical");
+		}
+	}
+}

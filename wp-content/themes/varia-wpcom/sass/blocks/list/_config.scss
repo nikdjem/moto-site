@@ -1,0 +1,12 @@
+/**
+ * List
+ */
+$config-list: (
+	// Fonts
+	"font": (
+		"family": (
+			"fallback": map-deep-get($config-global, "font", "family", "secondary", "fallback"),
+			"css-var": map-deep-get($config-global, "font", "family", "secondary", "css-var"),
+		)
+	),
+);

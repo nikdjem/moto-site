@@ -1,0 +1,31 @@
+$config-elements: (
+
+	"form": (
+
+		// Colors
+		"color": (
+			"text": map-deep-get($config-global, "color", "black"),
+			"border": map-deep-get($config-global, "color", "border", "default"),
+			"border-focus": map-deep-get($config-global, "color", "primary", "hover"),
+		),
+
+		// Fonts
+		"font": (
+			"family": (
+				"fallback": map-deep-get($config-global, "font", "family", "secondary", "fallback"),
+				"css-var": map-deep-get($config-global, "font", "family", "secondary", "css-var"),
+			),
+			"line-height": map-deep-get($config-global, "font", "line-height", "md"),
+			"size": map-deep-get($config-global, "font", "size", "md"),
+			"weight": bold,
+		),
+
+		// Borders
+		"border": (
+			"width": 1px,
+			"radius": 3px,
+		),
+
+		"padding": map-deep-get($config-global, "spacing", "unit")
+	),
+);

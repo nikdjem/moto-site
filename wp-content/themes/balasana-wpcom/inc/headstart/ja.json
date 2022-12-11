@@ -1,0 +1,298 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "social": "social",
+                "menu-1": "primary",
+                "menu-2": null
+            },
+            "custom_css_post_id": -1,
+            "header_text": 1,
+            "hide_front_page_title": true,
+            "custom_logo": ""
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "クラス",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>スタジオでは毎日クラスを開催しており、あらゆるレベルに対応しています。まったくの初心者の方向けには、まずは自分の体を知もらうための基本クラスを提供しています。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>ヨガ</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>初心者から上級者まで、さまざまなクラスを用意しています。最もお得なパッケージ「ディスカバリーパス」では、4つのクラスに参加できます (3週間有効)。 </p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>ピラティス</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>毎週月曜日、水曜日、金曜日の朝にはピラティスクラスを開催しています。お試し価格は15ドルです。また、120ドルで月次メンバーシップに登録することもできます。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>バーレッスン</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>これは4週間のコースのみです (90ドル)。このコースは、バーレッスンに特化した1日1時間のクラスで構成されています。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"className\":\"is-style-columns\",\"ids\":[23,17,29,98]} --> <div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-columns\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"23\" data-link=\"https://balasanademo.wordpress.com/beautiful-beauty-blond-hair-1882004/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg\" /></figure><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"17\" data-link=\"https://balasanademo.wordpress.com/acro-acro-yoga-adult-1881997/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"29\" data-link=\"https://balasanademo.wordpress.com/acro-yoga-balance-barefoot-1881999/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img data-height=\"2000\" data-id=\"98\" data-link=\"https://balasanademo.wordpress.com/teachers/acro-acro-yoga-active-1881996/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">参加ご希望の場合は、</h2> <!-- /wp:heading --> <!-- wp:button {\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/contact/\">お問い合わせ</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group -->",
+            "post_name": "classes",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 109,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "講師",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">多様な生活、スタイル、背景を持つ多様な講師陣となっていますが、一貫しているのは、全員が親切で献身的でインスピレーションを与える存在だということです。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>ジョアン・スミス</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>創始者 / ヨガとバーレッスン講師</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ダンサーとしてのバックグラウンドを持つジョアンは、ヨガと瞑想に常に情熱を傾けていました。インド旅行のあと、彼女は自分のスタジオを開くことを決意しました。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":100,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1882002.jpg?w=1024\" alt=\"\" class=\"wp-image-100\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>ノア・フレイザー</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>ヨガ講師</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ジェームズはヨガ愛好家の家庭に育ち、自然な流れでヨガの講師になりました。彼はアクロヨガを専門としています。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":99,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-arm-balance-1881994.jpg?w=1024\" alt=\"\" class=\"wp-image-99\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>ロバート・ピアース</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p><em>ヨガとピラティス講師</em></p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ロバートは以前はプロの体操選手でした。ケガをしたときにヨガの楽しさを発見し、現在は私たちのスタジオで講師を務めています。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":98,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg?w=1024\" alt=\"\" class=\"wp-image-98\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "teachers",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "team",
+            "hs_old_id": 96,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "このサイトについて",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">ジョーン・スミス設立の Bālāsana は、人々がより健康に思い思いの人生を送ることができるようにインスピレーションとサポートを提供するというシンプルな目標を掲げ、2015年1月にオープンしました。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>私たちの美しいスタジオで、ワークショップから学びを得、クラスであなたの体と魂を回復し、自分自身をよりよく感じ取ってください。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"wide\",\"id\":93,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1882007.jpg?w=1024\" alt=\"\" class=\"wp-image-93\" /></figure> <!-- /wp:image --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>クラス</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>スタジオでは毎日クラスを開催しており、あらゆるレベルに対応しています。まったくの初心者の方向けには、まずは自分の体を知もらうための基本クラスを提供しています。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">クラスを見る</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} --> <h4>講師陣</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>多様な生活、スタイル、背景を持つ多様な講師陣となっていますが、一貫しているのは、全員が親切で献身的でインスピレーションを与える存在だということです。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/teachers/\">講師陣を見る</a></div> <!-- /wp:button --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"url\":\"https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg\",\"id\":39,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim\" style=\"background-image:url('https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p style=\"text-align:center;\" class=\"has-huge-font-size\"><strong>始める方法や、ライフスタイルとしてのヨガに関する一般的なご質問は、ブログをご覧ください。</strong></p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://balasanademo.wordpress.com/blog/\">ブログを見る</a></div> <!-- /wp:button --></div></div> <!-- /wp:cover -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "about",
+            "hs_old_id": 89,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "お問い合わせ",
+            "post_content": "<!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph --> <p>当スタジオでは、スタジオの概要や提供しているヨガレッスンについてのご質問、</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>当スタジオのサービスへの改善点に関するご意見もお待ちしております。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns alignwide has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} --> <h4 class=\"has-text-align-left\">お問い合わせ</h4> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/email {\"email\":\"mail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456-7890</a></div> <!-- /wp:jetpack/phone --> <!-- wp:jetpack/address {\"address\":\"99 Wythe Avenue\",\"city\":\"Brooklyn\",\"region\":\"NY\",\"postal\":\"11249\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/99+Wythe Avenue,+Brooklyn,+NY,+11249\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"住所を Google マップで開く\"><div class=\"jetpack-address__address jetpack-address__address1\">99 Wythe Avenue</div><div><span class=\"jetpack-address__city\">Brooklyn</span>, <span class=\"jetpack-address__region\">NY</span> <span class=\"jetpack-address__postal\">11249</span></div></a></div> <!-- /wp:jetpack/address --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:heading {\"level\":4} --> <h4>営業時間</h4> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\",\"level\":4} --> <h4 class=\"has-text-align-left\">ご意見をお寄せください</h4> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /--> <!-- wp:jetpack/field-telephone /--> <!-- wp:jetpack/field-textarea {\"required\":true} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 79,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ブログ",
+            "post_content": "",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 10,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "ホーム",
+            "post_content": "<!-- wp:heading {\"align\":\"center\",\"level\":1} --> <h1 class=\"has-text-align-center\">ヨガスタジオ Bālāsana は、ニューヨーク市ブルックリンにあります。</h1> <!-- /wp:heading --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:image {\"align\":\"wide\",\"id\":17,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg?w=1024\" alt=\"\" class=\"wp-image-17\" /></figure> <!-- /wp:image --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"large\"} --> <p class=\"has-text-align-center has-large-font-size\">私たちの美しいスタジオで、ワークショップから学びを得、クラスであなたの体と魂を回復し、自分自身をよりよく感じ取ってください。</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>クラス</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>スタジオでは毎日クラスを開催しており、あらゆるレベルに対応しています。まったくの初心者の方向けには、まずは自分の体を知もらうための基本クラスを提供しています。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">クラスを見る</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":23,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg?w=1024\" alt=\"\" class=\"wp-image-23\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:cover {\"url\":\"https:\\/\\/balasanademo.files.wordpress.com\\/2019\\/08\\/acro-yoga-active-balance-1881993.jpg\",\"id\":39,\"dimRatio\":40,\"customOverlayColor\":\"#000000\",\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull has-background-dim-40 has-background-dim\" style=\"background-image:url('https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg');background-color:#000000;\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>始める方法や、ライフスタイルとしてのヨガに関する一般的なご質問は、ブログをご覧ください。</strong></p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"background\",\"textColor\":\"foreground\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-foreground-color has-background has-background-background-color\" href=\"https://balasanademo.wordpress.com/blog/\">ブログを見る</a></div> <!-- /wp:button --></div></div> <!-- /wp:cover --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide are-vertically-aligned-center\"><!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:heading {\"level\":4} --> <h4>講師陣</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>多様な生活、スタイル、背景を持つ多様な講師陣となっていますが、一貫しているのは、全員が親切で献身的でインスピレーションを与える存在だということです。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/teachers/\">講師陣を見る</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"id\":26,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/balance-clothes-colors-1882003.jpg?w=750\" alt=\"\" class=\"wp-image-26\" /></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6,\"textColor\":\"primary\"} --> <h6 class=\"has-primary-color has-text-color has-text-align-center\">ディスカバリーパス (最もお得)</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"primary\",\"fontSize\":\"huge\"} --> <p class=\"has-text-color has-text-align-center has-huge-font-size has-primary-color\"><strong>50ドル</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"textColor\":\"primary\",\"fontSize\":\"small\"} --> <p class=\"has-text-color has-text-align-center has-small-font-size has-primary-color\">3週間有効</p> <!-- /wp:paragraph --> <!-- wp:button {\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">続きを読む</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6} --> <h6 class=\"has-text-align-center\">まったくのビギナー向けコース</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>75ドル</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">4週間のコース</p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-background-color has-background has-foreground-background-color\" href=\"https://balasanademo.wordpress.com/classes/\">続きを読む</a></div> <!-- /wp:button --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":6} --> <h6 class=\"has-text-align-center\">バーレッスン集中コース</h6> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"huge\"} --> <p class=\"has-text-align-center has-huge-font-size\"><strong>90ドル</strong></p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --> <p class=\"has-text-align-center has-small-font-size\">4週間のコース</p> <!-- /wp:paragraph --> <!-- wp:button {\"backgroundColor\":\"foreground\",\"textColor\":\"background\",\"align\":\"center\"} --> <div class=\"wp-block-button aligncenter\"><a class=\"wp-block-button__link has-text-color has-background-color has-background has-foreground-background-color\" href=\"https://balasanademo.wordpress.com/classes/\">続きを読む</a></div> <!-- /wp:button --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:group {\"backgroundColor\":\"foreground-dark\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-foreground-dark-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"textColor\":\"background-dark\"} --> <h2 class=\"has-background-dark-color has-text-color\">Bālāsana</h2> <!-- /wp:heading --> <!-- wp:paragraph {\"textColor\":\"background-dark\"} --> <p class=\"has-text-color has-background-dark-color\">2015年にジョアン・スミスによって設立された Bālāsana は、ニューヨーク市ブルックリンに本拠を置く人気のヨガスタジオです。</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:paragraph --> <p>当スタジオでは、スタジオの概要や提供しているヨガレッスンについてのご質問、</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>email@domain.com</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>(123) 456-7890</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>99 Wythe Avenue<br>Brooklyn, NY 11249</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "バリ島でのヨガ瞑想",
+            "post_content": "<!-- wp:jetpack/tiled-gallery {\"align\":\"wide\",\"className\":\"is-style-columns\",\"ids\":[133,134,135]} --> <div class=\"wp-block-jetpack-tiled-gallery alignwide is-style-columns\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"133\" data-link=\"https://balasanademo.wordpress.com/ancient-architectural-design-architecture-2166553/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"134\" data-link=\"https://balasanademo.wordpress.com/architecture-bali-beautiful-2166559/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg\" data-width=\"2000\" src=\"https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"135\" data-link=\"https://balasanademo.wordpress.com/bali-coconut-trees-palm-trees-2100805/\" data-url=\"https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg\" data-width=\"3000\" src=\"https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:paragraph --> <p>今年の後半、12月頃にバリ島でヨガ瞑想を開催します。まだ計画段階ですが、来月の終わりまでには告知いたします。</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>ぜひブログをフォローしてください !</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p><em>新しいコンテンツを直接メールでお届けします。</em></p> <!-- /wp:paragraph --> <!-- wp:jetpack/subscriptions --> <div class=\"wp-block-jetpack-subscriptions\">[jetpack_subscription_form show_only_email_and_button=\"true\" custom_background_button_color=\"undefined\" custom_text_button_color=\"undefined\" submit_button_text=\"購読する\" submit_button_classes=\"undefined\" show_subscribers_total=\"false\" ]</div> <!-- /wp:jetpack/subscriptions -->",
+            "post_name": "yoga-retreat-in-bali",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 132,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "News"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "軸を見つける",
+            "post_content": "<!-- wp:image {\"align\":\"wide\",\"id\":23,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg?w=750\" alt=\"\" class=\"wp-image-23\" /><figcaption>ジョアンとロバートのディープメディテーション</figcaption></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>自分の心身とつながりやすくするエクササイズがいくつかあります。</p> <!-- /wp:paragraph --> <!-- wp:list --> <ul><li>深呼吸エクササイズ</li><li>マインドフルネス瞑想</li><li>ろうそくの炎を見つめる瞑想</li></ul> <!-- /wp:list --> <!-- wp:paragraph --> <p>マインドフルネス瞑想クラスは、毎週火曜日の朝9時に開催しています。</p> <!-- /wp:paragraph --> <!-- wp:button --> <div class=\"wp-block-button\"><a class=\"wp-block-button__link\" href=\"https://balasanademo.wordpress.com/classes/\">クラスを見る</a></div> <!-- /wp:button -->",
+            "post_name": "find-your-center",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 124,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Meditation"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "メイン",
+            "items": [
+                {
+                    "menu-item-title": "ホーム",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "クラス",
+                    "menu-item-db-id": 112,
+                    "menu-item-object-id": "109",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "このサイトについて",
+                    "menu-item-db-id": 92,
+                    "menu-item-object-id": "89",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "講師",
+                    "menu-item-db-id": 104,
+                    "menu-item-object-id": "96",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "ブログ",
+                    "menu-item-db-id": 83,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "お問い合わせ",
+                    "menu-item-db-id": 82,
+                    "menu-item-object-id": "79",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 6,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "ソーシャル",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 7,
+                    "menu-item-object-id": "7",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 8,
+                    "menu-item-object-id": "8",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 9,
+                    "menu-item-object-id": "9",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://balasanademo.files.wordpress.com/2019/08/cropped-logo-1.png",
+        "https://balasanademo.files.wordpress.com/2019/08/cropped-logo.png",
+        "https://balasanademo.files.wordpress.com/2019/08/logo.png",
+        "https://balasanademo.files.wordpress.com/2019/08/bali-coconut-trees-palm-trees-2100805.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/architecture-bali-beautiful-2166559.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/ancient-architectural-design-architecture-2166553.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1882002.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-arm-balance-1881994.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1881996.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-active-1882007.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/form-s-dml3p-sec-unsplash.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-active-balance-1881993.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-yoga-balance-barefoot-1881999.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/balance-clothes-colors-1882003.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/beautiful-beauty-blond-hair-1882004.jpg",
+        "https://balasanademo.files.wordpress.com/2019/08/acro-acro-yoga-adult-1881997.jpg"
+    ]
+}
